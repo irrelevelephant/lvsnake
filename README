@@ -1,3 +1,5 @@
 LabVIEW Snake
 
 This is a rudimentary implementation of the classic "snake" arcade game, written in LabVIEW 8.5. Released under MIT license.
+
+The top-level VI is "Snake.vi", with its corresponding subvis found in the "lib" subdirectory. The file "example.vi" is a simplified version of the game, suitable as a tutorial for novice LabVIEW programmers.
